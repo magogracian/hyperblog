@@ -16,6 +16,10 @@ body {
     padding: 0.5em;
 }
 
+#footer {
+    background-color: rgb(177, 175, 175);
+}
+
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
